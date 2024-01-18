@@ -2,63 +2,83 @@
   "users": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "firstName": "Gertrudis",
+      "lastName": "Tatterton",
+      "email": "gtatterton0@ehow.com",
+      "department": "finance",
+      "salary": 50000
     },
     {
       "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
+      "firstName": "Gail",
+      "lastName": "Newbatt",
+      "email": "gnewbatt1@un.org",
+      "department": "hr",
+      "salary": 50000
     },
     {
       "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
+      "firstName": "Walliw",
+      "lastName": "Wilstead",
+      "email": "wwilstead2@tripadvisor.com",
+      "department": "finance",
+      "salary": 50000
     },
     {
       "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
+      "firstName": "Abran",
+      "lastName": "Proback",
+      "email": "aproback3@theglobeandmail.com",
+      "department": "hr",
+      "salary": 50000
     },
     {
       "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au"
+      "firstName": "Roda",
+      "lastName": "Chappelow",
+      "email": "rchappelow4@oaic.gov.au",
+      "department": "finance",
+      "salary": 50000
     },
     {
       "id": 6,
-      "name": "Karney Wylie",
-      "age": 22,
-      "email": "kwylie5@miitbeian.gov.cn"
+      "firstName": "Karney",
+      "lastName": "Wylie",
+      "email": "kwylie5@miitbeian.gov.cn",
+      "department": "hr",
+      "salary": 50000
     },
     {
       "id": 7,
-      "name": "Cammi Pimbley",
-      "age": 63,
-      "email": "cpimbley6@nyu.edu"
+      "firstName": "Cammi",
+      "lastName": "Pimbley",
+      "email": "cpimbley6@nyu.edu",
+      "department": "finance",
+      "salary": 50000
     },
     {
       "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com"
+      "firstName": "Gavra",
+      "lastName": "Manning",
+      "email": "gmanning7@lycos.com",
+      "department": "hr",
+      "salary": 50000
     },
     {
       "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
+      "firstName": "Zachary",
+      "lastName": "Seward",
+      "email": "zseward8@oracle.com",
+      "department": "finance",
+      "salary": 50000
     },
     {
       "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com"
+      "firstName": "Chucho",
+      "lastName": "Norssister",
+      "email": "cnorssister9@mayoclinic.com",
+      "department": "hr",
+      "salary": 50000
     }
   ]
 }
